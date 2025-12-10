@@ -129,8 +129,7 @@ Apabila User Ragu akan Virus dan sebagainya,@fiiqrim_303 bisa memberikan FULL so
 🐞 Bug & Feedback
 
 Jika menemukan bug atau ingin fitur tambahan:
-📩 Telegram: **@Fiiqrim_303**
-
+📩 Instagram & Telegram: **@Fiiqrim_303**
 ---
 
 © Lisensi
