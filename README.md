@@ -31,7 +31,7 @@ WORD TOOLS – Laporan Prakerin / PKL
 
 ✅ Tool langsung aktif – **tanpa konfigurasi tambahan**
 
-=======__NOTE__==========
+NOTE :
 Apa bila muncul "Windows Protected your Pc" saat run Setup.exenya
 Maka tinggal Klik "More Info"(Underlane),lalu klik run
 Apabila User Ragu akan Virus dan sebagainya,@fiiqrim_303 bisa memberikan FULL source codenya
