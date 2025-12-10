@@ -3,7 +3,7 @@ Tools Laporan PKL berbasis Shortcut untuk membantu penulisan laporan PKL
 
 WORD TOOLS – Laporan Prakerin / PKL
 
-**Versi 0.2.3**
+**Versi 0.2.3** By Fiiqrim_303
 
 > **Tool otomatis untuk formatting laporan Prakerin / PKL di Microsoft Word menggunakan hotkey.**
 > Tidak perlu macro manual. Tidak mengubah Normal.dotm bawaan user secara permanen.
