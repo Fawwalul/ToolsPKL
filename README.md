@@ -7,7 +7,7 @@ WORD TOOLS – Laporan Prakerin / PKL
 
 > **Tool otomatis untuk formatting laporan Prakerin / PKL di Microsoft Word menggunakan hotkey.**
 > Tidak perlu macro manual. Tidak mengubah Normal.dotm bawaan user secara permanen.
-> Cocok untuk mahasiswa & siswa yang ingin laporan rapi dan konsisten.
+> Cocok untuk siswa SMK yang ingin membuat laporan dengan cepat,rapi dan konsisten.
 
 ---
 
