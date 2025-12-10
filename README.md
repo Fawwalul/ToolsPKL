@@ -22,7 +22,7 @@ WORD TOOLS – Laporan Prakerin / PKL
 
 🚀 Cara Instal (±30 Detik)
 
-1. **Extract** folder `ToosPKL`
+1. **Extract** folder `ToosPKL.rar`
 2. **Double-click** `MySetup.exe`
 3. Pilih **Install**
 4. Tunggu sampai muncul pesan **INSTALASI BERHASIL**
