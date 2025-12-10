@@ -130,8 +130,8 @@ Apabila User Ragu akan Virus dan sebagainya,@fiiqrim_303 bisa memberikan FULL so
 
 Jika menemukan bug atau ingin fitur tambahan:
 📩 Instagram & Telegram: **@Fiiqrim_303**
----
 
+---
 © Lisensi
 
 © 2025 **Fiqri Awwalul Islam**
