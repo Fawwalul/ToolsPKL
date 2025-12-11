@@ -1,139 +1,97 @@
 # ToolsPKL
-Tools Laporan PKL berbasis Shortcut untuk membantu penulisan laporan PKL
+Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Word.  
+**Versi 0.2.3 – By Fiiqrim_303**
 
-WORD TOOLS – Laporan Prakerin / PKL
-
-**Versi 0.2.3** By Fiiqrim_303
-
-> **Tool otomatis untuk formatting laporan Prakerin / PKL di Microsoft Word menggunakan hotkey.**
-> Tidak perlu macro manual. Tidak mengubah Normal.dotm bawaan user secara permanen.
-> Cocok untuk siswa SMK yang ingin membuat laporan dengan cepat,rapi dan konsisten.
+> Tools ini memberi hotkey cepat untuk BAB, Sub-BAB, paragraf, margin, daftar isi, caption, dan numbering — tanpa mengubah *Normal.dotm* user.
 
 ---
 
-✅ Apa yang Tool Ini Lakukan?
-
-* Menyediakan **shortcut cepat** untuk format BAB, Sub-BAB, isi paragraf, margin, numbering
-* Membantu **caption gambar & tabel**
-* **Generate & update Daftar Isi, Daftar Gambar, Daftar Tabel**
-* Semua aktif **otomatis saat Word dibuka**
+## 📸 Preview
+![Preview ToolsPKL](assets/preview.gif)
 
 ---
 
-🚀 Cara Instal (±30 Detik)
+## 🚀 Cara Pasang Shortcutnya
 
-1. **Extract** folder `ToosPKL.rar`
-2. **Double-click** `MySetup.exe`
-3. Pilih **Install**
-4. Tunggu sampai muncul pesan **INSTALASI BERHASIL**
-5. Buka **Microsoft Word**
-6. Klik **Enable Content** jika diminta
-
-✅ Tool langsung aktif – **tanpa konfigurasi tambahan**
-
-NOTE :
-* Apa bila muncul "Windows Protected your Pc" saat run Setup.exenya
-* Maka tinggal Klik "More Info"(Underlane),lalu klik run.
-* Apabila User Ragu akan Virus dan *sebagainya,@fiiqrim_303 bisa memberikan FULL source codenya
----
-
-⌨️ Daftar Hotkey & Fitur
-
-🔹 FORMAT BAB & SUB-BAB
-
-* `Alt + J` → Format **Judul Dokumen**
-* `Alt + L` → Format **BAB**
-* `Alt + S` → Format **Sub-BAB**
-* `Alt + A` → Format **Sub-sub BAB (A, B, C)**
-* `Alt + I` → Format **Isi Paragraf**
-* `Alt + I` → Format **Isi**
+1. Download **ToolsPKL.rar**
+2. Extract foldernya  
+3. Jalankan **MySetup.exe**
+4. Pilih **Install**
+5. Buka Word → klik **Enable Content** jika diminta  
+> Jika muncul “Windows Protected your PC”, klik **More Info → Run Anyway**
 
 ---
 
-🔹 SUB-BAB BERJENJANG
-
-* `Alt + S` → Sub-bab **(A, B, C)**
-* `Alt + A` → Sub-sub-bab **(1, 2, 3)**
-
----
-
-🔹 LAYOUT & HALAMAN
-
-* `Alt + M` → Set **Margin otomatis (4-3-3-3)**
+## 📥 Install via GitHub Releases
+1. Buka tab **Releases**
+2. Pilih versi terbaru (misal: **v0.2.3**)  
+3. Download **ToolsPKL.rar**
+4. Extract → jalankan **MySetup.exe**
 
 ---
 
-🔹 DAFTAR & CAPTION
-
-* `Ctrl + Alt + I` → **Buat / Update Daftar Isi**
-* `Ctrl + Alt + G` → **Buat Daftar Gambar**
-* `Ctrl + Alt + T` → **Buat Daftar Tabel**
-* `Alt + G` → **Caption Gambar**
-* `Alt + T` → **Caption Tabel**
-
----
-
-🔹 NUMBERING / LIST
-
-* `Alt + 1` → List huruf **(a, b, c)**
-* `Alt + 2` → List angka **(1, 2, 3)**
-* `Alt + 3` → List angka bertingkat **(1.1, 1.2, 1.3)**
-* `Alt + 4` → List kurung penuh **((1), (2), (3))**
-* `Alt + 0` → **Hapus semua numbering**
+## 🔧 Fitur Utama
+- Format cepat: **BAB, Sub-BAB, isi paragraf**
+- Margin otomatis **4–3–3–3**
+- Generate/update: **Daftar Isi, Gambar, Tabel**
+- Caption otomatis
+- Numbering lengkap
+- Aktif otomatis setiap Word dibuka  
+*(tanpa merusak Normal.dotm)*
 
 ---
 
-🔹 UTILITIES
+## ⌨️ Hotkey Penting
 
-* `Ctrl + Alt + H` → **Tampilkan daftar hotkey ini**
+**Format**
+- `Alt + J` — Judul  
+- `Alt + L` — BAB  
+- `Alt + S` — Sub-BAB  
+- `Alt + A` — Sub-sub BAB  
+- `Alt + I` — Isi paragraf
 
----
+**Layout**
+- `Alt + M` — Margin otomatis
 
-📌 Cara Pakai Singkat
+**Daftar & Caption**
+- `Ctrl + Alt + I` — Daftar Isi  
+- `Ctrl + Alt + G` — Daftar Gambar  
+- `Ctrl + Alt + T` — Daftar Tabel  
+- `Alt + G` — Caption Gambar  
+- `Alt + T` — Caption Tabel  
 
-1. Buka **Microsoft Word**
-2. Letakkan kursor pada teks/paragraf
-3. Tekan **hotkey sesuai kebutuhan**
-4. Formatting langsung diterapkan
+**Numbering**
+- `Alt + 1` — Huruf (a,b,c)  
+- `Alt + 2` — Angka  
+- `Alt + 3` — Bertingkat (1.1)  
+- `Alt + 4` — Kurung ((1),(2))  
+- `Alt + 0` — Reset numbering  
 
----
-
-💡 Tips Penting
-
-* Jika **Daftar Isi tidak update**, tekan `Ctrl + Alt + I` lagi
-* Jika salah numbering, gunakan `Alt + 0` untuk reset
-* Jangan membuka Word saat proses install/uninstall
-
----
-
-🧹 Cara Uninstall
-
-1. Jalankan `MySetup.exe`
-2. Pilih **Uninstall**
-3. Backup otomatis akan direstore (jika ada)
-4. Selesai
-
-✅ Aman, bersih, tanpa sisa file
+**Lainnya**
+- `Ctrl + Alt + H` — Tampilkan daftar hotkey
 
 ---
 
-ℹ️ Catatan Teknis
+## 📘 Cara Pakai
+1. Buka Word  
+2. Tempatkan kursor  
+3. Tekan hotkey  
+4. Format otomatis diterapkan
 
-* Tool ini berjalan melalui **Startup Word**
-* **Tidak merusak Normal.dotm asli**
-* Bisa dihapus kapan saja
-* Support Windows + Microsoft Word
+---
+
+## 🧹 Uninstall
+1. Jalankan **MySetup.exe**  
+2. Pilih **Uninstall**  
+3. Backup otomatis dipulihkan
 
 ---
 
-🐞 Bug & Feedback
-
-Jika menemukan bug atau ingin fitur tambahan:
-📩 Instagram & Telegram: **@Fiiqrim_303**
+## 🐞 Bug & Feedback
+Instagram / Telegram: **@Fiiqrim_303**
 
 ---
-© Lisensi
 
-© 2025 **Fiqri Awwalul Islam**
-Gratis untuk pembelajaran & laporan Siswa
-(*Beta version – update akan menyusul*)
+## © Lisensi
+© 2025 **Fiqri Awwalul Islam**  
+Gratis untuk pembelajaran & siswa SMK.
