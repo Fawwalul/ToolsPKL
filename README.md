@@ -95,4 +95,4 @@ Instagram / Telegram: **@Fiiqrim_303**
 
 ## © Lisensi
 © 2025 **Fiqri Awwalul Islam**  
-Gratis untuk pembelajaran & siswa SMK.
+Gratis BETA Version untuk siswa SMKN 5 MKS.
