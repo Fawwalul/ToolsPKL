@@ -7,7 +7,8 @@ Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Wo
 ---
 
 ## 📸 Preview
-![preview](assets/preview.gif)
+![Preview ToolsPKL](asset/preview.gif)
+
 
 ---
 
