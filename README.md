@@ -13,7 +13,7 @@ WORD TOOLS – Laporan Prakerin / PKL
 
 ✅ Apa yang Tool Ini Lakukan?
 
-* Menyediakan **hotkey cepat** untuk format BAB, Sub-BAB, isi paragraf, margin, numbering
+* Menyediakan **shortcut cepat** untuk format BAB, Sub-BAB, isi paragraf, margin, numbering
 * Membantu **caption gambar & tabel**
 * **Generate & update Daftar Isi, Daftar Gambar, Daftar Tabel**
 * Semua aktif **otomatis saat Word dibuka**
