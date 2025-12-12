@@ -24,7 +24,7 @@ Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Wo
 ---
 
 ## 📥 Install via GitHub Releases
-**ToolsPKL by fiiqrim_303**
+**"ToolsPKL by fiiqrim_303"**
 
 1. Buka tab **Releases**
 2. Pilih versi terbaru (misal: **v0.2.3**)  
