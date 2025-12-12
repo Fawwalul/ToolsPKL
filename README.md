@@ -17,7 +17,7 @@ Versi 0.2.3 – By Fiiqrim_303
 
 ---
 
-#🚀 Cara Pasang Shortcutnya
+# 🚀 Cara Pasang Shortcutnya
 
 1. Download ToolsPKL.rar
 
@@ -42,7 +42,7 @@ Versi 0.2.3 – By Fiiqrim_303
 
 ---
 
-#📥 Install via GitHub Releases**
+# 📥 Install via GitHub Releases**
 
 Buat kamu yang baru pertama kali pakai GitHub, ikuti cara paling sederhana ini:
 
@@ -91,7 +91,7 @@ Klik ToolsPKL.rar untuk mendownload
 
 ---
 
-#🔧 Fitur Utama
+# 🔧 Fitur Utama
 
 Format cepat: BAB, Sub-BAB, isi paragraf
 
@@ -110,7 +110,7 @@ Aktif otomatis setiap Word dibuka
 
 ---
 
-#⌨️ Hotkey Penting
+# ⌨️ Hotkey Penting
 
 Format
 
@@ -164,7 +164,7 @@ Ctrl + Alt + H — Tampilkan daftar hotkey
 
 ---
 
-#📘 Cara Pakai
+# 📘 Cara Pakai
 
 1. Buka Word
 
@@ -182,7 +182,7 @@ Ctrl + Alt + H — Tampilkan daftar hotkey
 
 ---
 
-#🧹 Uninstall
+# 🧹 Uninstall
 
 1. Jalankan MySetup.exe
 
@@ -197,7 +197,7 @@ Ctrl + Alt + H — Tampilkan daftar hotkey
 
 ---
 
-#🐞 Bug & Feedback
+# 🐞 Bug & Feedback
 
 Instagram / Telegram: @Fiiqrim_303
 
