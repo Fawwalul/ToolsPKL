@@ -1,6 +1,7 @@
 ToolsPKL
 
 Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Word.
+
 Versi 3.6 – By Fiiqrim_303
 
 > Tools ini memberi hotkey cepat untuk BAB, Sub-BAB, paragraf, margin, daftar isi, caption, dan numbering — tanpa mengubah Normal.dotm user.
