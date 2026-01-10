@@ -1,178 +1,214 @@
-# 🛠️ ToolsPKL
+ToolsPKL
 
-Shortcut otomatis untuk membantu **formatting laporan PKL / Prakerin** di **Microsoft Word**.  
-**Versi 0.2.3** — By **Fiiqrim_303**
+Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Word.
+Versi 3.6 – By Fiiqrim_303
 
-> ToolsPKL menyediakan hotkey cepat untuk BAB, Sub-BAB, paragraf, margin, daftar isi, caption, dan numbering  
-> tanpa mengubah **Normal.dotm** milik user.
+> Tools ini memberi hotkey cepat untuk BAB, Sub-BAB, paragraf, margin, daftar isi, caption, dan numbering — tanpa mengubah Normal.dotm user.
+
+
+
 
 ---
 
-## 📸 Preview
-
+## Preview
 ![Preview ToolsPKL](asset/preview.gif)
 
----
 
-## 🚀 Cara Pasang Shortcut
-
-1. Download **ToolsPKL.rar**
-2. Extract folder
-3. Jalankan **MySetup.exe**
-4. Pilih **Install**
-5. Buka Microsoft Word → klik **Enable Content** jika diminta
-
-> Jika muncul *“Windows Protected your PC”*  
-> klik **More Info → Run Anyway**
 
 ---
 
-## 📥 Install via GitHub Releases (Pemula Friendly)
+## Cara Pasang Shortcutnya
 
-### 🔹 Langkah 1 — Buka Halaman Releases
-Scroll halaman GitHub hingga menemukan bagian **Releases**  
-atau klik tab **Releases**.
+1. Download ToolsPKL.rar
 
-### 🔹 Langkah 2 — Pilih Versi Terbaru
-Klik rilis paling atas (contoh: **v0.2.3**).
 
-### 🔹 Langkah 3 — Download Installer
-Pada bagian **Assets**, klik **ToolsPKL.rar**.
+2. Extract foldernya
 
-### 🔹 Langkah 4 — Install
-1. Extract file `.rar`
-2. Jalankan **MySetup.exe**
-3. Pilih **Install**
-4. Buka Word dan klik **Enable Content**
 
----
+3. Run file.exe untuk Install
 
-## 🔧 Fitur Utama
 
-- Format cepat: **BAB, Sub-BAB, Isi paragraf**
-- Margin otomatis **4–3–3–3**
-- Generate & update:
-  - Daftar Isi
-  - Daftar Gambar
-  - Daftar Tabel
-- Caption otomatis
-- Numbering lengkap
-- Aktif otomatis setiap Word dibuka  
-  *(tanpa merusak Normal.dotm)*
+4. Pilih Install
+
+
+5. Buka Word → klik Enable Content jika diminta
+
+
+
+> Jika muncul “Windows Protected your PC”, klik More Info → Run Anyway
+
+
+
 
 ---
 
-## 🧱 Format BAB & Paragraf
+## Install via GitHub Releases
 
-![Format BAB](asset/format/bab_1.gif)
+Buat kamu yang baru pertama kali pakai GitHub, ikuti cara paling sederhana ini:
 
-**Sub-BAB**
-![Sub-BAB](asset/format/subbab.gif)
+🔹 Langkah 1 — Buka Halaman Releases
 
-**Isi Paragraf**
-![Isi Paragraf](asset/format/isi_paragraf.gif)
+Scroll ke bawah halaman GitHub sampai menemukan bagian Releases; biasanya ada di sisi kanan atau bawah repo.
 
----
+Atau klik tab Releases jika tersedia.
 
-## 📐 Margin Otomatis
 
-![Margin Otomatis](asset/margin/margin_apply.gif)
+🔹 Langkah 2 — Pilih Versi Terbaru
 
-**Perbandingan Sebelum & Sesudah**
-![Margin Before After](asset/margin/margin_before_after.gif)
+Klik rilis paling atas (contoh: v3.6.9).
 
----
+Versi paling baru selalu berada di urutan pertama.
 
-## 📑 Daftar Otomatis
 
-**Daftar Isi**
-![Daftar Isi](asset/daftar/daftar_isi.gif)
+🔹 Langkah 3 — Download File Installer
 
-**Update Daftar**
-![Update Daftar](asset/daftar/update_daftar.gif)
+Di dalam halaman rilis:
 
----
+Cari bagian Assets
 
-## 🖼️ Caption Otomatis
+Klik Pkg-Install-V3.6.exe untuk mendownload
 
-**Caption Gambar**
-![Caption Gambar](asset/caption/caption_gambar.gif)
 
-**Caption Tabel**
-![Caption Tabel](asset/caption/caption_tabel.gif)
+🔹 Langkah 4 — Install
 
----
+1. Run File.exenya
 
-## 🔢 Numbering
 
-**Huruf (a, b, c)**
-![Numbering Huruf](asset/numbering/numbering_huruf.gif)
+2. Pilih Install
 
-**Angka (1, 2, 3)**
-![Numbering Angka](asset/numbering/numbering_angka.gif)
 
-**Reset**
-![Reset Numbering](asset/numbering/numbering_reset.gif)
+3. Buka Microsoft Word dan gunakan Shortcutnya
+
+
+4. klik Enable Content jika muncul(opsional)
+
+## Install in Github
+![Preview ToolsPKL](asset/Github.gif)
+
+
 
 ---
 
-## ⌨️ Hotkey Penting
+> Jika muncul peringatan “Windows Protected your PC”, klik More Info → Run Anyway
 
-### Format
-- **Alt + J** — Judul
-- **Alt + L** — BAB
-- **Alt + S** — Sub-BAB
-- **Alt + A** — Sub-sub BAB
-- **Alt + I** — Isi paragraf
 
-### Layout
-- **Alt + M** — Margin otomatis
 
-### Daftar & Caption
-- **Ctrl + Alt + I** — Daftar Isi
-- **Ctrl + Alt + G** — Daftar Gambar
-- **Ctrl + Alt + T** — Daftar Tabel
-- **Alt + G** — Caption Gambar
-- **Alt + T** — Caption Tabel
-
-### Numbering
-- **Alt + 1** — Huruf
-- **Alt + 2** — Angka
-- **Alt + 3** — Bertingkat
-- **Alt + 4** — Kurung
-- **Alt + 0** — Reset
-
-### Lainnya
-- **Ctrl + Alt + H** — Tampilkan daftar hotkey
-
-![Daftar Hotkey](asset/hotkey/show_hotkey.gif)
 
 ---
 
-## 📘 Cara Pakai
+## Fitur Utama
 
-1. Buka Microsoft Word
+Format cepat: BAB, Sub-BAB, isi paragraf
+
+Margin otomatis 4–3–3–3
+
+Generate/update: Daftar Isi, Gambar, Tabel
+
+Caption otomatis
+
+Numbering lengkap
+
+Aktif otomatis setiap Word dibuka
+(tanpa merusak Normal.dotm)
+
+
+
+---
+
+## Hotkey Penting
+
+Format
+
+Alt + J — Judul
+
+Alt + L — BAB
+
+Alt + S — Sub-BAB
+
+Alt + A — Sub-sub BAB
+
+Alt + I — Isi paragraf
+
+
+Layout
+
+Alt + M — Margin otomatis
+
+
+Daftar & Caption
+
+Ctrl + Alt + I — Daftar Isi
+
+Ctrl + Alt + G — Daftar Gambar
+
+Ctrl + Alt + T — Daftar Tabel
+
+Alt + G — Caption Gambar
+
+Alt + T — Caption Tabel
+
+
+Numbering
+
+Alt + 1 — Huruf (a,b,c)
+
+Alt + 2 — Angka
+
+Alt + 3 — Bertingkat (1.1)
+
+Alt + 4 — Kurung ((1),(2))
+
+Alt + 0 — Reset numbering
+
+
+Lainnya
+
+Ctrl + Alt + H — Tampilkan daftar hotkey
+
+
+
+---
+
+## Cara Pakai
+
+1. Buka Word
+
+
 2. Tempatkan kursor
+
+
 3. Tekan hotkey
-4. Format diterapkan otomatis
+
+
+4. Format otomatis diterapkan
+
+
+
 
 ---
 
-## 🧹 Uninstall
+## Uninstall
 
-1. Jalankan **MySetup.exe**
-2. Pilih **Uninstall**
-3. Backup otomatis dipulihkan
+1. Run File.exenya
+
+
+2. Pilih Uninstall
+
+
+3. Backup otomatis dipulihkan(jika ada)
+
+
+
 
 ---
 
-## 🐞 Bug & Feedback
+### Bug & Feedback
 
-Instagram / Telegram: **@Fiiqrim_303**
+Instagram / Telegram: @Fiiqrim_303
+
 
 ---
 
-## © Lisensi
+© Lisensi
 
-© 2025 **Fiqri Awwalul Islam**  
-Gratis **BETA Version** untuk siswa **SMKN 5 MKS**
+© 2025 Fiqri Awwalul Islam .
