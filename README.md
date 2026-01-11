@@ -85,7 +85,8 @@ Klik Pkg-Install-V3.6.exe untuk mendownload
 
 4. klik Enable Content jika muncul(opsional)
 
-## Install in Github
+## Tutorial Install in Github
+
 ![Preview ToolsPKL](asset/Github.gif)
 
 
