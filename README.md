@@ -52,7 +52,9 @@ Buat kamu yang baru pertama kali pakai GitHub, ikuti cara paling sederhana ini:
 Scroll ke bawah halaman GitHub sampai menemukan bagian Releases; biasanya ada di sisi kanan atau bawah repo.
 
 Atau klik tab Releases jika tersedia.
-![Realeses](asset/Realeses.jpg)
+
+### Contoh
+![Preview ToolsPKL](asset/Contoh.jpg)
 
 🔹 Langkah 2 — Pilih Versi Terbaru
 
