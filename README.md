@@ -85,11 +85,11 @@ Klik Pkg-Install-V3.6.exe untuk mendownload
 
 4. klik Enable Content jika muncul(opsional)
 
-## Tutorial Install in Github
+## Video Tutorial Install
 
-![Preview ToolsPKL](asset/Github.gif)
+Lihat panduan lengkap install ToolsPKL via GitHub:
 
-
+ https://fawwalu.github.io/ToolsPKL
 
 ---
 
