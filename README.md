@@ -88,7 +88,7 @@ Klik Pkg-Install-V3.6.exe untuk mendownload
 
 ## Video Tutorial Install
 
-![Tutorial Full Instal](asset/Github.gif)
+[ https://fawwalul.github.io/ToolsPKL/ ]
 
 ---
 
