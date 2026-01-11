@@ -1,4 +1,4 @@
-ToolsPKL
+# Tools-Shortcut
 
 Shortcut otomatis untuk membantu formatting laporan PKL/Prakerin di Microsoft Word.
 
@@ -52,7 +52,7 @@ Buat kamu yang baru pertama kali pakai GitHub, ikuti cara paling sederhana ini:
 Scroll ke bawah halaman GitHub sampai menemukan bagian Releases; biasanya ada di sisi kanan atau bawah repo.
 
 Atau klik tab Releases jika tersedia.
-
+![Realeses](asset/Realeses.jpg)
 
 🔹 Langkah 2 — Pilih Versi Terbaru
 
